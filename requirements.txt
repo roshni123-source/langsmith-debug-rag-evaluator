@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+langsmith
+openai
+python-dotenv
+nest_asyncio
+scikit-learn
+tqdm
