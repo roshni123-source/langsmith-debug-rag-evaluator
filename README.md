@@ -31,11 +31,12 @@ This project demonstrates an end-to-end pipeline for evaluating LLM responses us
 
 ```bash
 pip install -r requirements.txt
+```bash
 
 
 ### set environment variables
 ```bash
 export OPENAI_API_KEY=your-openai-key
 export LANGSMITH_API_KEY=your-langsmith-key
-
+```bash
 
