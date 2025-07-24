@@ -1,4 +1,4 @@
-# 🧠 LLM Debugging Q&A with LangSmith
+# LLM Debugging Q&A with LangSmith
 
 This project demonstrates an end-to-end pipeline for evaluating LLM responses using LangSmith, LangChain, and OpenAI. It includes:
 
@@ -7,7 +7,7 @@ This project demonstrates an end-to-end pipeline for evaluating LLM responses us
 - Generation of answers using OpenAI's GPT-4o model.
 - Custom evaluation using LangSmith's `evaluate()` function, including a length-based evaluator to check if the output is concise compared to the reference.
 
-### 💡 Project Workflow
+### Project Workflow
 
 1. **Dataset Creation**  
    Upload a curated Q&A dataset to LangSmith using the Python SDK.
