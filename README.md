@@ -27,12 +27,13 @@ This project demonstrates an end-to-end pipeline for evaluating LLM responses us
 ### ⚙Setup
 
 1. Install dependencies:
-
+```bash
 pip install -r requirements.txt
 
 
 
 ### set environment variables
+```bash
 export OPENAI_API_KEY=your-openai-key
 export LANGSMITH_API_KEY=your-langsmith-key
 
