@@ -23,20 +23,16 @@ This project demonstrates an end-to-end pipeline for evaluating LLM responses us
 4. **Custom Evaluation**  
    Run LangSmith’s `evaluate()` to compare generated outputs against dataset references using a custom metric (`is_concise_enough`).
 
----
 
 ### ⚙Setup
 
 1. Install dependencies:
 
-```bash
 pip install -r requirements.txt
-```bash
+
 
 
 ### set environment variables
-```bash
 export OPENAI_API_KEY=your-openai-key
 export LANGSMITH_API_KEY=your-langsmith-key
-```bash
 
