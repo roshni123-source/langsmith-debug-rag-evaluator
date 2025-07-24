@@ -7,8 +7,6 @@ This project demonstrates an end-to-end pipeline for evaluating LLM responses us
 - Generation of answers using OpenAI's GPT-4o model.
 - Custom evaluation using LangSmith's `evaluate()` function, including a length-based evaluator to check if the output is concise compared to the reference.
 
----
-
 ### 💡 Project Workflow
 
 1. **Dataset Creation**  
@@ -29,7 +27,7 @@ This project demonstrates an end-to-end pipeline for evaluating LLM responses us
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 
 
 ### set environment variables
